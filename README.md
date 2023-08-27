@@ -46,7 +46,7 @@
 ## :eyes: Current overview
 
 <div align="left">
-<a href="https://app.dailydev/shakil"><img align="right" src="/devcard.svg" width="200" alt="Shakil Hossai'n Dev Card"/></a>
+<a ><img align="right" src="/devcard.svg" width="200" alt="Shakil Hossai'n Dev Card"/></a>
 </div>
 
 ### 🔭 I’m Looking for - a Jon.
