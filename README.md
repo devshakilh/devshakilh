@@ -36,7 +36,7 @@
 <img src="/images/icons/tailwind.png"/>
 <img src="/images/icons/Bootsrap.png"/>
 <img src="/images/icons/firebase.png"/>
-<img height='20' src="/images/icons/postman-logo-vert-2018.jpg"/>
+<img height='20' width='20' src="/images/icons/postman-logo-vert-2018.jpg"/>
 <img height='20' src="/images/icons/Postgresql.png"/>
 
 </p>
@@ -49,7 +49,7 @@
 ## :eyes: Current overview
 
 <div align="left">
-<a ><img align="right" src="/devcard.svg" width="200" alt="Shakil Hossai'n Dev Card"/></a>
+<a ><img align="right" src="/devcardsvg" width="200" alt="Shakil Hossai'n Dev Card"/></a>
 </div>
 
 ### 🔭 I’m Looking for - a Job.
