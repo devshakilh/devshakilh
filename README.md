@@ -36,6 +36,9 @@
 <img src="/images/icons/tailwind.png"/>
 <img src="/images/icons/Bootsrap.png"/>
 <img src="/images/icons/firebase.png"/>
+<img src="/images/icons/postman-logo-vert-2018.jpg"/>
+<img src="/images/icons/Postgresql.png"/>
+
 </p>
 <p align="center">
 <img src="/images/icons/node.png"/>
