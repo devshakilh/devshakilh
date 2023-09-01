@@ -36,8 +36,8 @@
 <img src="/images/icons/tailwind.png"/>
 <img src="/images/icons/Bootsrap.png"/>
 <img src="/images/icons/firebase.png"/>
-<img height='20' width='20' src="/images/icons/postman-logo-vert-2018.jpg"/>
-<img height='20' src="/images/icons/Postgresql.png"/>
+<img height='40' width='40' src="/images/icons/postman-logo-vert-2018.jpg"/>
+<img height='40' src="/images/icons/Postgresql.png"/>
 
 </p>
 <p align="center">
