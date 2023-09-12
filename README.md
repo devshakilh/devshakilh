@@ -48,9 +48,7 @@
 
 ## :eyes: Current overview
 
-<div align="left">
-<a ><img align="right" src="/devcardsvg" width="200" alt="Shakil Hossai'n Dev Card"/></a>
-</div>
+
 
 ### 🔭 I’m Looking for - a Job.
 
