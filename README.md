@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-I am **DeepaJarout(JavaScript Full stack Developer)**. I ✨ like ✨  problem solving, traveling, Learn new technology, Book reading, Namaz, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
+I am **Shakil Hossain (Passionate Frontend Developer)**. I ✨ like ✨  problem solving, traveling, Learn new technology, Books reading, Namaz, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
 
 - 🔭 I’m currently working on Node JS 
 - 🌱 I’m currently learning Docker
