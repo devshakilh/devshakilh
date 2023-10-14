@@ -92,7 +92,7 @@ I am **Shakil Hossain (Passionate Frontend Developer)**. I ✨ like ✨  problem
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilla1&layout=compact)](https://github.com/shakilla1)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=shakilla1.shakilla1)]
+[!(https://visitorbadge.io/status?path=<shakilla1/shakilla1)>]
 view rawREADME.txt hosted with ❤ by GitHub
 
 
