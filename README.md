@@ -90,7 +90,7 @@ I am **Shakil Hossain (a passionate Frontend Developer from Bangladesh)**. I ✨
 [![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=shakilla1)](https://github.com/shakilla1)
 
 
-<p align='left'>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilla1&layout=compact)](https://github.com/shakilla1)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilla1&layout=compact)](https://github.com/shakilla1)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilla1&" alt="shakilla1" /></p>
 
