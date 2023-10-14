@@ -2,14 +2,14 @@
 ### Hi there 👋
 
 
-I am **Shakil Hossain (Passionate Frontend Developer)**. I ✨ like ✨  problem solving, traveling, Learn new technology, Books reading, Namaz, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
+I am **Shakil Hossain (Passionate Frontend Developer)**. I ✨ like ✨  problem-solving, traveling, Learning new technology, Books reading, Namaz, and conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
 
 - 🔭 I’m currently working on Node JS 
 - 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on new business ideas.
-<!-- - 🤔 I’m looking for help with on new business ideas. -->
+<!-- - 🤔 I’m seeking help with new business ideas. -->
 - 💬 Ask me about life advice🤣🤣 , tech solution 👩‍💻 , traveling ✈️, food 🌯 🫔 🥗 🥘 🫕 🥫 🍝 🍜 🍲 🍛.
-- 📫 How to reach me:DM 📱 email-shakilshifat65@gmail.com.
+- 📫 How to reach me: DM 📱 email-shakilshifat65@gmail.com.
 
 ## 🤝 Connect with me:
 
