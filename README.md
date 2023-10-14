@@ -1,8 +1,9 @@
 
 ### Hi there 👋
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shakilla1&label=Profile%20views&color=0e75b6&style=flat" alt="shakilla1" /> </p>
 
-I am **Shakil Hossain (Passionate Frontend Developer)**. I ✨ like ✨  problem-solving, traveling, Learning new technology, Books reading, Namaz, and conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
+I am **Shakil Hossain (a passionate Frontend Developer from Bangladesh)**. I ✨ like ✨  problem-solving, traveling, Learning new technology, Books reading, Namaz, and conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
 
 - 🔭 I’m currently working on Node JS 
 - 🌱 I’m currently learning Docker
@@ -91,6 +92,9 @@ I am **Shakil Hossain (Passionate Frontend Developer)**. I ✨ like ✨  problem
 [![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=shakilla1)](https://github.com/shakilla1)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilla1&layout=compact)](https://github.com/shakilla1)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilla1&" alt="shakilla1" /></p>
 
 [![Visitors](https://visitorbadge.glitch.me/badge?page_id=shakilla1.shakilla1)]
 view rawREADME.txt hosted with ❤ by GitHub
