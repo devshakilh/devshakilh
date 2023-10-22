@@ -21,7 +21,7 @@ I am **Shakil Hossain (a passionate Frontend Developer from Bangladesh)**. I ✨
 
 <a href="https://twitter.com/shakilla1"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png" alt="deepa Jarout| Twitter" width="35px"/></a>
 
-<a href="https://deepajarout.medium.com/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/7079375_medium logo_medium_icon.png" alt="deepa jarout | Medium" width="35px"/></a>
+<a href="https://shakilhossain.vercel.app/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/7079375_medium logo_medium_icon.png" alt="deepa jarout | Medium" width="35px"/></a>
 
 <a href="mailto:shakilshifat65@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="deepa jarout | Gmail" width="35px"/></a>
 
