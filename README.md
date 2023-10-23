@@ -81,8 +81,8 @@ I am **Shakil Hossain (a passionate Frontend Developer from Bangladesh)**. I ✨
 ## 📝 Latest Blog Posts
 
 - [How to add a free SSL Certificate to your website?](https://medium.com/@deepajarout/how-to-add-a-free-ssl-certificate-to-your-website-736a41837a1)
-- [Data Types In Javascript](https://medium.com/@deepajarout/data-types-in-javascript-fd7cd14ad4a7)
-- [Variables In Javascript](https://medium.com/@deepajarout/variables-in-javascript-ef840522e80d)
+- [Data Types In Javascript](https://medium.com/@shakilla1/data-types-in-javascript-fd7cd14ad4a7)
+- [Variables In Javascript](https://medium.com/@shakilla1/variables-in-javascript-ef840522e80d)
 
 
 ## 📈 GitHub Stats 
