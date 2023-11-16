@@ -12,14 +12,14 @@ I am **Shakil Hossain (a passionate Frontend Developer from Bangladesh)**. I ✨
 
 ## 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/md-shakil-hossain-s/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
+<a href="https://www.linkedin.com/in/devshakilh/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="deepa Jarout | LinkedIn" width="35px"/></a>
 
-<a href="https://instagram.com/mdshakilhossain88"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="deepa Jarout| Instagram" width="35px"/></a>
+<a href="https://instagram.com/devshakilh"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296765_camera_instagram_instagram logo_icon.png" alt="deepa Jarout| Instagram" width="35px"/></a>
 
-<a href="https://www.facebook.com/shakil11A"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5365678_fb_facebook_facebook logo_icon.png" alt="Shakil Hossain| Facebook" width="35px"/></a>
+<a href="https://www.facebook.com/devshakilh"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5365678_fb_facebook_facebook logo_icon.png" alt="Shakil Hossain| Facebook" width="35px"/></a>
 
 
-<a href="https://twitter.com/shakilla1"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png" alt="deepa Jarout| Twitter" width="35px"/></a>
+<a href="https://twitter.com/devshakilh"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png" alt="deepa Jarout| Twitter" width="35px"/></a>
 
 <a href="https://shakilhossain.vercel.app/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/7079375_medium logo_medium_icon.png" alt="deepa jarout | Medium" width="35px"/></a>
 
@@ -81,19 +81,19 @@ I am **Shakil Hossain (a passionate Frontend Developer from Bangladesh)**. I ✨
 ## 📝 Latest Blog Posts
 
 - [How to add a free SSL Certificate to your website?](https://medium.com/@deepajarout/how-to-add-a-free-ssl-certificate-to-your-website-736a41837a1)
-- [Data Types In Javascript](https://medium.com/@shakilla1/data-types-in-javascript-fd7cd14ad4a7)
-- [Variables In Javascript](https://medium.com/@shakilla1/variables-in-javascript-ef840522e80d)
+- [Data Types In Javascript](https://medium.com/@devshakilh/data-types-in-javascript-fd7cd14ad4a7)
+- [Variables In Javascript](https://medium.com/@devshakilh/variables-in-javascript-ef840522e80d)
 
 
 ## 📈 GitHub Stats 
 
-[![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=shakilla1)](https://github.com/shakilla1)
+[![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=devshakilh)](https://github.com/devshakilh)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilla1&" alt="shakilla1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devshakilh &" alt="devshakilh" /></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilla1&layout=compact)](https://github.com/shakilla1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devshakilh&layout=compact)](https://github.com/devshakilh)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakilla1&label=Profile%20views&color=0e75b6&style=flat" alt="shakilla1" /> </p>
 
