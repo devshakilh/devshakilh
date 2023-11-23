@@ -90,13 +90,13 @@ I am **Shakil Hossain (a passionate Frontend Developer from Bangladesh)**. I ✨
 [![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=devshakilh)](https://github.com/devshakilh)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devshakilh &" alt="devshakilh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devshakilh&" alt="devshakilh" /></p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devshakilh&layout=compact)](https://github.com/devshakilh)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devshakilh&label=Profile%20views&color=0e75b6&style=flat" alt="devshakilh" /> </p>
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=devshakilh&" alt="devshakilh" /></p>
 view rawREADME.txt hosted with ❤ by GitHub
 
 
