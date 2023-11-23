@@ -96,7 +96,6 @@ I am **Shakil Hossain (a passionate Frontend Developer from Bangladesh)**. I ✨
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devshakilh&layout=compact)](https://github.com/devshakilh)
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=devshakilh&" alt="devshakilh" /></p>
 view rawREADME.txt hosted with ❤ by GitHub
 
 
