@@ -1,9 +1,9 @@
 
 ### Hi there 👋
 
-I am **Shakil Hossain (a passionate Frontend Developer from Bangladesh)**. I ✨ like ✨  problem-solving, traveling, Learning new technology, Books reading, Namaz, and conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
+I am Shakil Hossain FullStack Engineer (a passionate Front-End Engineer from Bangladesh). I ✨ like ✨ problem-solving, travelling, Learning new technology, reading books, Salat, and conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
 
-- 🔭 I’m currently working on Node JS 
+- 🔭 I’m currently working on Next JS and Node JS
 - 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate on new business ideas.
 <!-- - 🤔 I’m seeking help with new business ideas. -->
@@ -19,13 +19,13 @@ I am **Shakil Hossain (a passionate Frontend Developer from Bangladesh)**. I ✨
 <a href="https://www.facebook.com/devshakilh"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5365678_fb_facebook_facebook logo_icon.png" alt="Shakil Hossain| Facebook" width="35px"/></a>
 
 
-<a href="https://twitter.com/devshakilh"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png" alt="deepa Jarout| Twitter" width="35px"/></a>
+<a href="https://x.com/devshakilh"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png" alt="deepa Jarout| Twitter" width="35px"/></a>
 
 <a href="https://shakilhossain.vercel.app/"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/7079375_medium logo_medium_icon.png" alt="deepa jarout | Medium" width="35px"/></a>
 
 <a href="mailto:shakilshifat65@gmail.com"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2993691_brand_brands_gmail_logo_logos_icon.png" alt="deepa jarout | Gmail" width="35px"/></a>
 
-<a href="https://www.quora.com/profile/Deepa-Jarout-1"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2613304_answers_insights_knowledge_questions_quora_icon.png" alt="deepa jarout | Quora" width="35px"/></a>
+<a href="https://www.quora.com/profile/devshakilh"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/2613304_answers_insights_knowledge_questions_quora_icon.png" alt="deepa jarout | Quora" width="35px"/></a>
 
 <a href="https://www.yourquote.in/deepa-jarout-bcnif/quotes"><img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/pngaaa.com-2253457.png" alt="deepa jarout | Quora" width="35px" /></a>
 </br>
